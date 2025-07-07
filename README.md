@@ -36,4 +36,4 @@ python password_manager.py
 - `requirements.txt` – Required Python packages
 
 ---
-Made with ❤️ by Sanket Sharma
+Made with by Sanket Sharma
